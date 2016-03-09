@@ -129,6 +129,8 @@ identical; only the first two steps are different:
 because we have to use the `cabal-install` sandbox, not the Cabal one. If you
 use the relative path, you are set.)
 
+blah, blah
+
 Coding Conventions
 ------------------
 
@@ -144,8 +146,13 @@ respected. In general, try to adhere to [this style guide][guide].
 Dependencies policy
 -------------------
 
-Cabal's policy is to support being built by versions of GHC that are up
-to 3 years old.
+blah, blah
+blah, blah
+blah, blah
+blah, blah
+blah, blah
+blah, blah
+
 
 The Cabal library must be buildable out-of-the-box, i.e., the
 dependency versions required by Cabal must have shipped with GHC for
